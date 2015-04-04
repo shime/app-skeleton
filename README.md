@@ -1,6 +1,6 @@
-# Formbreeze
+# App skeleton
 
-Easily add forms to your static site.
+This is the skeleton for building full-stack JavaScript applications. Clone it and start working on your app.
 
 Technology:
 
@@ -8,6 +8,7 @@ Technology:
 * [gulp](https://github.com/gulpjs/gulp)
 * [browserify](https://github.com/substack/node-browserify)
 * [Express](https://github.com/strongloop/express)
+* [Docker](https://www.docker.com/)
 
 ## Development
 
